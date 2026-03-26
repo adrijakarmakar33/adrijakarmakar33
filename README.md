@@ -47,8 +47,14 @@ AI-powered resume analyzer & career assistant
 
 ## 🏆 Achievements  
 
-- 🥈 Onchain Island Hackathon — 2nd Place  
-- 🔒 Clickjacking vulnerability acknowledged by NCIIPC  
+<p align="center">
+  <img src="pull-shark.png" width="160"/>
+</p>
+
+<p align="center">
+  <b>Pull Shark 🦈</b><br/>
+  Awarded for successfully merging pull requests on GitHub
+</p>
 
 ---
 
@@ -73,11 +79,11 @@ AI-powered resume analyzer & career assistant
 
 ---
 
-## 🎖 Achievements  
+## 🎖 More Achievements  
 
 <p align="center">
   <a href="https://github.com/adrijakarmakar33?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-orange?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/View%20All%20Achievements-orange?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
